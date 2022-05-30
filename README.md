@@ -33,4 +33,4 @@ Once you've built Velocity, you can copy and run the `-all` JAR from
 and you can configure it from there.
 
 Alternatively, you can get the proxy JAR from the [downloads](https://papermc.io/downloads#Velocity)
-page.
+page. 
